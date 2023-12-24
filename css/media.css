@@ -89,6 +89,9 @@
 }
 
 @media (max-width: 768px) {
+    .burger-menu {
+        display: block;
+    }
     .hero img {
         width: 90%;
     }
