@@ -539,6 +539,7 @@ button {
     height: 54px;
     padding-left: 15px;
     border-radius: 255px;
+    outline: none;
     border: 1px solid #F2EFE6;
     background: #FFF;
 }
