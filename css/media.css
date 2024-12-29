@@ -92,6 +92,22 @@
     .burger-menu {
         display: block;
     }
+    .burger-menu li a {
+        color: #FBFAF7;
+        font-size: 16px;
+        font-weight: 400;
+        font-family: Noto Sans, sans-serif;
+    }
+    .burger-menu li button {
+        font-size: 16px;
+        font-weight: 400;
+        color: #FBFAF7;
+        background: #198C36;
+        border: 2px solid #198C36;
+        padding: 15px 25px;
+        border-radius: 160px;
+        font-family: Noto Sans, sans-serif;
+    }
     .hero img {
         width: 90%;
     }
@@ -270,5 +286,8 @@
     }
     .date-text h1 {
         text-align: center;
+    }
+    .hero-text h1 {
+        line-height: 61px;
     }
 }

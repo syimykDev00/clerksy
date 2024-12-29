@@ -106,8 +106,8 @@ button {
 /* menu button & animation */
 .menu-button {
     position: absolute;
-    right:0px;
-    top:0px;
+    right: 0;
+    top: 22px;
     z-index: 100;
     display: block;
     width: 50px;
@@ -123,7 +123,7 @@ button {
     left: 25%;
     width: 50%;
     height: 3px;
-    background: green;
+    background: white;
     border-radius: 10px;
     overflow: hidden;
     transition: all 0.5s ease;
@@ -201,7 +201,7 @@ button {
     top:0px;
     margin: 0px;
     padding: 0px;
-    background-color: #fff;
+    background-color: #F7BC28;
     animation: menu-closed .3s both;
 
     transition: .2s;
